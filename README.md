@@ -1,5 +1,5 @@
 
-# Projeto Landing Page - FreeTaxi - Harison Rios 💻
+# Projeto Clock - JS - Harison Rios 💻
 
 <img src=".github/preview.png" alt="Exemplo imagem">
 
